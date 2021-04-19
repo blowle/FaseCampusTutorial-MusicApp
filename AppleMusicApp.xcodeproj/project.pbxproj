@@ -9,8 +9,6 @@
 /* Begin PBXBuildFile section */
 		D7E23F3F262D0EFF000C5983 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7E23F3E262D0EFF000C5983 /* AppDelegate.swift */; };
 		D7E23F41262D0EFF000C5983 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7E23F40262D0EFF000C5983 /* SceneDelegate.swift */; };
-		D7E23F43262D0EFF000C5983 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7E23F42262D0EFF000C5983 /* ViewController.swift */; };
-		D7E23F46262D0EFF000C5983 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F44262D0EFF000C5983 /* Main.storyboard */; };
 		D7E23F48262D0F01000C5983 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F47262D0F01000C5983 /* Assets.xcassets */; };
 		D7E23F4B262D0F01000C5983 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F49262D0F01000C5983 /* LaunchScreen.storyboard */; };
 		D7E23F58262D0F87000C5983 /* DefaultStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7E23F57262D0F87000C5983 /* DefaultStyle.swift */; };
@@ -52,8 +50,6 @@
 		D7E23F3B262D0EFF000C5983 /* AppleMusicApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppleMusicApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7E23F3E262D0EFF000C5983 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D7E23F40262D0EFF000C5983 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		D7E23F42262D0EFF000C5983 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		D7E23F45262D0EFF000C5983 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D7E23F47262D0F01000C5983 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D7E23F4A262D0F01000C5983 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D7E23F4C262D0F01000C5983 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -129,8 +125,6 @@
 				D7E23F53262D0F08000C5983 /* Style */,
 				D7E23F3E262D0EFF000C5983 /* AppDelegate.swift */,
 				D7E23F40262D0EFF000C5983 /* SceneDelegate.swift */,
-				D7E23F42262D0EFF000C5983 /* ViewController.swift */,
-				D7E23F44262D0EFF000C5983 /* Main.storyboard */,
 				D7E23F47262D0F01000C5983 /* Assets.xcassets */,
 				D7E23F49262D0F01000C5983 /* LaunchScreen.storyboard */,
 				D7E23F4C262D0F01000C5983 /* Info.plist */,
@@ -286,7 +280,6 @@
 				D7E24021262D4786000C5983 /* Glow.mp3 in Resources */,
 				D7E23F48262D0F01000C5983 /* Assets.xcassets in Resources */,
 				D7E24025262D4786000C5983 /* im trying to find myself.mp3 in Resources */,
-				D7E23F46262D0EFF000C5983 /* Main.storyboard in Resources */,
 				D7E24026262D4786000C5983 /* always you.mp3 in Resources */,
 				D7E24027262D4786000C5983 /* [ asleep ].mp3 in Resources */,
 				D7E24023262D4786000C5983 /* tranquility.mp3 in Resources */,
@@ -300,7 +293,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D7E23F43262D0EFF000C5983 /* ViewController.swift in Sources */,
 				D7E23F66262D1753000C5983 /* PlayerViewController.swift in Sources */,
 				D7E23F3F262D0EFF000C5983 /* AppDelegate.swift in Sources */,
 				D7E23F62262D1483000C5983 /* TrackManager.swift in Sources */,
@@ -318,14 +310,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		D7E23F44262D0EFF000C5983 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D7E23F45262D0EFF000C5983 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		D7E23F49262D0F01000C5983 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (

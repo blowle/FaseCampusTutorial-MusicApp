@@ -32,6 +32,14 @@ extension AVPlayerItem {
                 trackArtwork = artwork
             }
         }
+        
+        guard let title = trackTitle,
+              let artist = trackArtist,
+              let albumName = trackAlbumName,
+              let artwork = trackArtwork else {
+            return nil
+        }
+        return Track(title: title, artist: artist, albumName: albumName, artwork: artwork)
     }
 }
 
@@ -44,19 +52,19 @@ extension AVMetadataItem {
         return stringValue
     }
     var artist: String? {
-        guard let key = commonKey?.rawValue, key == "title" else {
+        guard let key = commonKey?.rawValue, key == "artist" else {
             return nil
         }
         return stringValue
-    }
+    } 
     var albumName: String? {
-        guard let key = commonKey?.rawValue, key == "title" else {
+        guard let key = commonKey?.rawValue, key == "albumName" else {
             return nil
         }
         return stringValue
     }
     var artwork: UIImage? {
-        guard let key = commonKey?.rawValue, key == "title",
+        guard let key = commonKey?.rawValue, key == "artwork",
               let data = dataValue, let image = UIImage(data: data) else {
             return nil
         }
