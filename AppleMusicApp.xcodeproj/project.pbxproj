@@ -24,28 +24,6 @@
 		D7E23F75262D18F7000C5983 /* TrackCollectionHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7E23F74262D18F7000C5983 /* TrackCollectionHeaderView.swift */; };
 		D7E23F78262D190F000C5983 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7E23F77262D190F000C5983 /* HomeViewController.swift */; };
 		D7E23F7B262D1918000C5983 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F7A262D1918000C5983 /* Main.storyboard */; };
-		D7E23F95262D3F63000C5983 /* Ocean ride __ 海の乗り.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F7F262D3F5F000C5983 /* Ocean ride __ 海の乗り.mp3 */; };
-		D7E23F96262D3F63000C5983 /* when the leaves start falling.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F80262D3F5F000C5983 /* when the leaves start falling.mp3 */; };
-		D7E23F97262D3F63000C5983 /* Moonlight!.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F81262D3F60000C5983 /* Moonlight!.mp3 */; };
-		D7E23F98262D3F63000C5983 /* Sampled in your own sweet way.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F82262D3F60000C5983 /* Sampled in your own sweet way.mp3 */; };
-		D7E23F99262D3F63000C5983 /* distant moon (spotify apple etc).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F83262D3F60000C5983 /* distant moon (spotify apple etc).mp3 */; };
-		D7E23F9A262D3F63000C5983 /* Glow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F84262D3F60000C5983 /* Glow.mp3 */; };
-		D7E23F9B262D3F63000C5983 /* always you.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F85262D3F61000C5983 /* always you.mp3 */; };
-		D7E23F9C262D3F63000C5983 /* [ asleep ].mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F86262D3F61000C5983 /* [ asleep ].mp3 */; };
-		D7E23F9D262D3F63000C5983 /* i fell in love with you one night in september..mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F87262D3F61000C5983 /* i fell in love with you one night in september..mp3 */; };
-		D7E23F9E262D3F63000C5983 /* Getsomerest.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F88262D3F61000C5983 /* Getsomerest.mp3 */; };
-		D7E23F9F262D3F63000C5983 /* Letting Go.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F89262D3F61000C5983 /* Letting Go.mp3 */; };
-		D7E23FA0262D3F63000C5983 /* memories (listen on spotify from 3am ep).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F8A262D3F61000C5983 /* memories (listen on spotify from 3am ep).mp3 */; };
-		D7E23FA1262D3F63000C5983 /* tranquility.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F8B262D3F61000C5983 /* tranquility.mp3 */; };
-		D7E23FA2262D3F63000C5983 /* Chamomile Tea.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F8C262D3F62000C5983 /* Chamomile Tea.mp3 */; };
-		D7E23FA3262D3F63000C5983 /* valentin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F8D262D3F62000C5983 /* valentin.mp3 */; };
-		D7E23FA4262D3F63000C5983 /* Sleepless.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F8E262D3F62000C5983 /* Sleepless.mp3 */; };
-		D7E23FA5262D3F63000C5983 /* night calls.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F8F262D3F62000C5983 /* night calls.mp3 */; };
-		D7E23FA6262D3F63000C5983 /* Bike Rides On The Block.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F90262D3F62000C5983 /* Bike Rides On The Block.mp3 */; };
-		D7E23FA7262D3F63000C5983 /* im trying to find myself.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F91262D3F63000C5983 /* im trying to find myself.mp3 */; };
-		D7E23FA8262D3F63000C5983 /* elijah who - hello.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F92262D3F63000C5983 /* elijah who - hello.mp3 */; };
-		D7E23FA9262D3F63000C5983 /* aruarian dance [lounge version].mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F93262D3F63000C5983 /* aruarian dance [lounge version].mp3 */; };
-		D7E23FAA262D3F63000C5983 /* Missing U In The Raining Day.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D7E23F94262D3F63000C5983 /* Missing U In The Raining Day.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -68,28 +46,6 @@
 		D7E23F74262D18F7000C5983 /* TrackCollectionHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrackCollectionHeaderView.swift; sourceTree = "<group>"; };
 		D7E23F77262D190F000C5983 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		D7E23F7A262D1918000C5983 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		D7E23F7F262D3F5F000C5983 /* Ocean ride __ 海の乗り.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ocean ride __ 海の乗り.mp3"; sourceTree = "<group>"; };
-		D7E23F80262D3F5F000C5983 /* when the leaves start falling.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "when the leaves start falling.mp3"; sourceTree = "<group>"; };
-		D7E23F81262D3F60000C5983 /* Moonlight!.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Moonlight!.mp3"; sourceTree = "<group>"; };
-		D7E23F82262D3F60000C5983 /* Sampled in your own sweet way.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Sampled in your own sweet way.mp3"; sourceTree = "<group>"; };
-		D7E23F83262D3F60000C5983 /* distant moon (spotify apple etc).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "distant moon (spotify apple etc).mp3"; sourceTree = "<group>"; };
-		D7E23F84262D3F60000C5983 /* Glow.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Glow.mp3; sourceTree = "<group>"; };
-		D7E23F85262D3F61000C5983 /* always you.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "always you.mp3"; sourceTree = "<group>"; };
-		D7E23F86262D3F61000C5983 /* [ asleep ].mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "[ asleep ].mp3"; sourceTree = "<group>"; };
-		D7E23F87262D3F61000C5983 /* i fell in love with you one night in september..mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "i fell in love with you one night in september..mp3"; sourceTree = "<group>"; };
-		D7E23F88262D3F61000C5983 /* Getsomerest.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Getsomerest.mp3; sourceTree = "<group>"; };
-		D7E23F89262D3F61000C5983 /* Letting Go.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Letting Go.mp3"; sourceTree = "<group>"; };
-		D7E23F8A262D3F61000C5983 /* memories (listen on spotify from 3am ep).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "memories (listen on spotify from 3am ep).mp3"; sourceTree = "<group>"; };
-		D7E23F8B262D3F61000C5983 /* tranquility.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tranquility.mp3; sourceTree = "<group>"; };
-		D7E23F8C262D3F62000C5983 /* Chamomile Tea.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Chamomile Tea.mp3"; sourceTree = "<group>"; };
-		D7E23F8D262D3F62000C5983 /* valentin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = valentin.mp3; sourceTree = "<group>"; };
-		D7E23F8E262D3F62000C5983 /* Sleepless.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Sleepless.mp3; sourceTree = "<group>"; };
-		D7E23F8F262D3F62000C5983 /* night calls.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "night calls.mp3"; sourceTree = "<group>"; };
-		D7E23F90262D3F62000C5983 /* Bike Rides On The Block.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Bike Rides On The Block.mp3"; sourceTree = "<group>"; };
-		D7E23F91262D3F63000C5983 /* im trying to find myself.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "im trying to find myself.mp3"; sourceTree = "<group>"; };
-		D7E23F92262D3F63000C5983 /* elijah who - hello.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "elijah who - hello.mp3"; sourceTree = "<group>"; };
-		D7E23F93262D3F63000C5983 /* aruarian dance [lounge version].mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "aruarian dance [lounge version].mp3"; sourceTree = "<group>"; };
-		D7E23F94262D3F63000C5983 /* Missing U In The Raining Day.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Missing U In The Raining Day.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -180,28 +136,6 @@
 		D7E23F7E262D3F20000C5983 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				D7E23F86262D3F61000C5983 /* [ asleep ].mp3 */,
-				D7E23F85262D3F61000C5983 /* always you.mp3 */,
-				D7E23F93262D3F63000C5983 /* aruarian dance [lounge version].mp3 */,
-				D7E23F90262D3F62000C5983 /* Bike Rides On The Block.mp3 */,
-				D7E23F8C262D3F62000C5983 /* Chamomile Tea.mp3 */,
-				D7E23F83262D3F60000C5983 /* distant moon (spotify apple etc).mp3 */,
-				D7E23F92262D3F63000C5983 /* elijah who - hello.mp3 */,
-				D7E23F88262D3F61000C5983 /* Getsomerest.mp3 */,
-				D7E23F84262D3F60000C5983 /* Glow.mp3 */,
-				D7E23F87262D3F61000C5983 /* i fell in love with you one night in september..mp3 */,
-				D7E23F91262D3F63000C5983 /* im trying to find myself.mp3 */,
-				D7E23F89262D3F61000C5983 /* Letting Go.mp3 */,
-				D7E23F8A262D3F61000C5983 /* memories (listen on spotify from 3am ep).mp3 */,
-				D7E23F94262D3F63000C5983 /* Missing U In The Raining Day.mp3 */,
-				D7E23F81262D3F60000C5983 /* Moonlight!.mp3 */,
-				D7E23F8F262D3F62000C5983 /* night calls.mp3 */,
-				D7E23F7F262D3F5F000C5983 /* Ocean ride __ 海の乗り.mp3 */,
-				D7E23F82262D3F60000C5983 /* Sampled in your own sweet way.mp3 */,
-				D7E23F8E262D3F62000C5983 /* Sleepless.mp3 */,
-				D7E23F8B262D3F61000C5983 /* tranquility.mp3 */,
-				D7E23F8D262D3F62000C5983 /* valentin.mp3 */,
-				D7E23F80262D3F5F000C5983 /* when the leaves start falling.mp3 */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -263,33 +197,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D7E23FA2262D3F63000C5983 /* Chamomile Tea.mp3 in Resources */,
 				D7E23F4B262D0F01000C5983 /* LaunchScreen.storyboard in Resources */,
 				D7E23F7B262D1918000C5983 /* Main.storyboard in Resources */,
-				D7E23F9A262D3F63000C5983 /* Glow.mp3 in Resources */,
-				D7E23F9D262D3F63000C5983 /* i fell in love with you one night in september..mp3 in Resources */,
-				D7E23F98262D3F63000C5983 /* Sampled in your own sweet way.mp3 in Resources */,
-				D7E23FA5262D3F63000C5983 /* night calls.mp3 in Resources */,
-				D7E23FA1262D3F63000C5983 /* tranquility.mp3 in Resources */,
-				D7E23FA4262D3F63000C5983 /* Sleepless.mp3 in Resources */,
-				D7E23FA7262D3F63000C5983 /* im trying to find myself.mp3 in Resources */,
-				D7E23F9C262D3F63000C5983 /* [ asleep ].mp3 in Resources */,
-				D7E23FA8262D3F63000C5983 /* elijah who - hello.mp3 in Resources */,
-				D7E23F9E262D3F63000C5983 /* Getsomerest.mp3 in Resources */,
-				D7E23F99262D3F63000C5983 /* distant moon (spotify apple etc).mp3 in Resources */,
-				D7E23FA6262D3F63000C5983 /* Bike Rides On The Block.mp3 in Resources */,
-				D7E23FA0262D3F63000C5983 /* memories (listen on spotify from 3am ep).mp3 in Resources */,
-				D7E23FA3262D3F63000C5983 /* valentin.mp3 in Resources */,
-				D7E23F95262D3F63000C5983 /* Ocean ride __ 海の乗り.mp3 in Resources */,
-				D7E23F9F262D3F63000C5983 /* Letting Go.mp3 in Resources */,
 				D7E23F6B262D1778000C5983 /* Player.storyboard in Resources */,
 				D7E23F48262D0F01000C5983 /* Assets.xcassets in Resources */,
 				D7E23F46262D0EFF000C5983 /* Main.storyboard in Resources */,
-				D7E23F97262D3F63000C5983 /* Moonlight!.mp3 in Resources */,
-				D7E23F9B262D3F63000C5983 /* always you.mp3 in Resources */,
-				D7E23F96262D3F63000C5983 /* when the leaves start falling.mp3 in Resources */,
-				D7E23FA9262D3F63000C5983 /* aruarian dance [lounge version].mp3 in Resources */,
-				D7E23FAA262D3F63000C5983 /* Missing U In The Raining Day.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
